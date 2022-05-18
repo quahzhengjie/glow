@@ -1,2 +1,1 @@
-# glow
-glint and glow
+# Rocket Academy Coding Bootcamp: React Express Base
